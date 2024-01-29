@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakesh Kumar Singh(@rakesh296)
-- 👀 My skills are Html,Css and JavaScript..
+- 👀 My skills are Html,Css, JavaScript, angularJs, Php, CodeIgniter3 and Mysql..
 - 🌱 I’m currently looking for a job in it sector..
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail-id:- rksingh1452@gmail.com
